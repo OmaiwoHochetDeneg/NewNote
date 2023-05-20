@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">New Note</string>
+    <string name="create_new_note">create new note</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="ed_hint_title">Title</string>
+    <string name="ed_hint_content">Content</string>
+    <string name="save_note">Save note</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Блокнот</string>
+    <string name="create_new_note">создать новую запись</string>
+    <string name="list_is_empty">Список пуст</string>
+    <string name="ed_hint_title">Заголовок</string>
+    <string name="ed_hint_content">Содержание</string>
+    <string name="save_note">Сохранить</string>
+</resources>
